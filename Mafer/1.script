@@ -1,0 +1,9 @@
+<script>
+
+unmuteButton.addEventListener('click', function() {
+
+video.muted = false;
+
+});
+
+</script>
